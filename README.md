@@ -1,7 +1,6 @@
 # Wanna join Decentralized Autonomus Synchronization?
 
 We are open Synchronization, but not evryone can be a part of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/meet-our-validators.md) <br />
-If you wanna synchronize with us - read it first:
 
 ## What is to be a DVS-Validator?
 
