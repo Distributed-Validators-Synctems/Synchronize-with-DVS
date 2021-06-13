@@ -7,7 +7,7 @@ We are open Synchronization, but not evryone can be a part of [Distributed Valid
 **First, being the part of DVS is a digital friendship!** <br />
 We cannot find a better word to describe the relationships that we try to create and cultivate between *DVS-Validators*. <br />
 Like all friends, we are very different, we are distributed all over the World, each of us has a different vision and values, but we agree on one thing: **being together is much more fun, interesting and effective!** <br />
-Between Win-Win and competition, we choose the first! <br />
+Between *Win-Win* and *Competition*, we choose the first! <br />
 
 **Secondly, all DVS-Validators help to each other!** <br />
 - We share the information about new test-nets: DVS-Validators have an access to *DVS Discord Server*, that agregate information about new projects and test-nets <br />
