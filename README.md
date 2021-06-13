@@ -11,8 +11,8 @@ Between *Win-Win* and *Competition*, we choose the first! <br />
 
 **Secondly, all DVS-Validators help to each other!** <br />
 - We share the information about new test-nets: DVS-Validators have an access to *DVS Discord Server*, that agregate information about new projects and test-nets <br />
-- We help to join existing main-nets: DVS will help you with advice, documentation, as well as tokens for running a validator in networks that are validated by DVS. <br />
-- We care about each other, like about ourselvs: DVS-Validators take on reputational and financial risks in the case of a mistake or unforeseen circumstances. <br />
+- We help to join existing main-nets: DVS will help you with advice, documentation, as well as tokens for running a validator in networks that are validated by DVS <br />
+- We care about each other, like about ourselvs: DVS-Validators take on reputational and financial risks in the case of a mistake or unforeseen circumstances <br />
 
 **And of course, this is good reputation and new perspective for validator!** <br />
 When you want to join new test-net, you are not just lonely enthusiast any more - you are the part of Decentralized Autonomus Synchronization! <br />
