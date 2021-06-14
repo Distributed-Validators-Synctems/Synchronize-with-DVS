@@ -1,4 +1,4 @@
-# Wanna join Decentralized Autonomus Synchronization?
+# Wanna join Decentralized Autonomous Synchronization?
 
 We are open Synchronization, but not evryone can be a part of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/meet-our-validators.md) <br />
 
@@ -15,7 +15,7 @@ Between *Win-Win* and *Competition*, we choose the first! <br />
 - We care about each other, like about ourselvs: DVS-Validators take on reputational and financial risks in the case of a mistake or unforeseen circumstances <br />
 
 **And of course, this is good reputation and new perspective for validator!** <br />
-When you want to join new test-net, you are not just lonely enthusiast any more - you are the part of Decentralized Autonomus Synchronization! <br />
+When you want to join new test-net, you are not just lonely enthusiast any more - you are the part of Decentralized Autonomous Synchronization! <br />
 It means, that projects will understand, that they will get a validator that is supported by many other validators, and in case of unforeseen circumstances, the Network and delegators will receive compensation for any lose. <br />
 
 ## We are responsible for our actions!
