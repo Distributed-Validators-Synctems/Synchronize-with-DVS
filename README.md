@@ -14,6 +14,10 @@ Between *Win-Win* and *Competition*, we choose the first! <br />
 - We help to join existing main-nets: DVS will help you with advice, documentation, as well as tokens for running a validator in networks that are validated by DVS <br />
 - We care about each other, like about ourselvs: DVS-Validators take on reputational and financial risks in the case of a mistake or unforeseen circumstances <br />
 
+**Thirdly, DVS-Validators have financial support!** <br />
+Validators can count on one-time or regular financial support from the [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation), if they participate in the activities of the [Validator School]() <br />
+Participation in the activities of the **Validator School** means providing support, advices and mentor help for students.<br />
+
 **And of course, this is good reputation and new perspective for validator!** <br />
 When you want to join new test-net, you are not just lonely enthusiast any more - you are the part of Decentralized Autonomous Synchronization! <br />
 It means, that projects will understand, that they will get a validator that is supported by many other validators, and in case of unforeseen circumstances, the Network and delegators will receive compensation for any lose. <br />
